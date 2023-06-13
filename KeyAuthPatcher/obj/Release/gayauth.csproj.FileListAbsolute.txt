@@ -1,0 +1,11 @@
+C:\Users\apiv34\Desktop\testnigger\KeyAuthPatcher\bin\Release\gayauth.exe.config
+C:\Users\apiv34\Desktop\testnigger\KeyAuthPatcher\bin\Release\gayauth.exe
+C:\Users\apiv34\Desktop\testnigger\KeyAuthPatcher\bin\Release\gayauth.pdb
+C:\Users\apiv34\Desktop\testnigger\KeyAuthPatcher\bin\Release\0Harmony.dll
+C:\Users\apiv34\Desktop\testnigger\KeyAuthPatcher\bin\Release\0Harmony.xml
+C:\Users\apiv34\Desktop\testnigger\KeyAuthPatcher\obj\Release\gayauth.csproj.AssemblyReference.cache
+C:\Users\apiv34\Desktop\testnigger\KeyAuthPatcher\obj\Release\gayauth.csproj.SuggestedBindingRedirects.cache
+C:\Users\apiv34\Desktop\testnigger\KeyAuthPatcher\obj\Release\gayauth.csproj.CoreCompileInputs.cache
+C:\Users\apiv34\Desktop\testnigger\KeyAuthPatcher\obj\Release\gayauth.csproj.CopyComplete
+C:\Users\apiv34\Desktop\testnigger\KeyAuthPatcher\obj\Release\gayauth.exe
+C:\Users\apiv34\Desktop\testnigger\KeyAuthPatcher\obj\Release\gayauth.pdb
